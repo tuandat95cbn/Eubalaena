@@ -1,0 +1,6 @@
+dask[complete]==2022.9.0
+xarray==2022.6.0
+matplotlib
+netCDF4
+bottleneck
+dask_jobqueue
