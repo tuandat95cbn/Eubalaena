@@ -1,5 +1,5 @@
 import xarray as xr
-from euba.build import builder
+from euba.establish import builder
 depth = [0.494, 541.1]
 L_lat= 2
 L_lng= 2
